@@ -1,0 +1,7 @@
+{
+  "name": "IonicCordovaCodePushApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
